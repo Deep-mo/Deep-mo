@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**Deep-mo/Deep-mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Hello, I am Deep-mo (Aka Gabriel Ferreira Laureano).</h2>
+   <ul>
+  <li> I'm currently learning JavaScript,to become a front-end dev.</li>
+  <li>Pronouns : he/him.</li>
+   <li>You can find me in the linkedin by <a href="https://www.linkedin.com/in/gabriel-ferreira-laureano-0i123777/">Gabriel Ferreira</a>.</li>
+  <li>Fun fact i have a garden.<li>
+  </ul>
+  <p>Have a good day.</p>
+  <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deep-mo&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep-mo&layout=compact&langs_count=16&theme=dracula">
+  </div>
